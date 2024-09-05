@@ -5,8 +5,8 @@
 }
 
 body{
-    background-image: url("/day-5/public/netflix1.jpg");
-    background-color: rgba(0, 0, 0, 0.5); /* Black with 50% opacity */
+    background-image: url("./public/netflix1.jpg");
+    background-color: rgba(0, 0, 0, 0.5); 
     background-blend-mode: darken;
     background-size: cover;
 
